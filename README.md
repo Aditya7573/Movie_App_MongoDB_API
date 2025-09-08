@@ -20,7 +20,5 @@
 1) Open `index.html` in a browser (or any static server).  
 2) **Optional**: To test reviews, start my local MongoDB API; then open a movie’s **reviews** link.
 
-## Live demo
-I’ll attach a **working website link** for the frontend. (Database stays private/local; review actions are disabled on the public demo.)
 
 — Aditya
