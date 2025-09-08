@@ -1,6 +1,6 @@
 # Movie_App_MongoDB_API
 
-# Movie Reviews App — README (Short, HR‑Friendly)
+# Movie Reviews App — README
 
 **What it is:** A simple web app to browse movies and read/write reviews. UI is plain HTML/CSS/JS (no frameworks).
 
